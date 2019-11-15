@@ -29,3 +29,7 @@ The workshop is divided in 2 sections, one for tackling the basics and to get yo
 **Bonus points:** If we have time, we will go through an explanation of Data Augmentation
 
 **Note**: The following notebooks have functionality that only works in Google Colab. If you would like to make it work locally you might need to remove this functions.
+
+Solutions to the notebooks are here: 
+- Part I - Basic Keras Model: [solution](./beginner/solution)
+- Part II - Image Classification and Neural Nets: [solution](./intermediate/solution)
